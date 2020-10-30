@@ -97,7 +97,7 @@ author:
   avatar           : /assets/avatar_cropped.png
   bio              : "I'm an econ grad turned entrepreneurs. I'm very curious."
   location         : "Hyderabad, India"
-  email            : "abhishek.anirudhan@gmail.com"
+  #email            : "abhishek.anirudhan@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
