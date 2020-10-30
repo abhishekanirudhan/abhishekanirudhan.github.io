@@ -3,7 +3,9 @@ layout: single
 author_profile: true
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I have a background in **Economics**, however I spent significant time exploring
+Data Science, Machine Learning and now Deep Learning. I also spent a few years
+giving flight to my entrepreneurial ambitions at [Law School 101](https://www.lawschool101.in/) & [GrowthCat](https://www.growthcat.in/).
 
 [Link to another page](./another-page.html).
 
