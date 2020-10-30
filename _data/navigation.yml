@@ -3,7 +3,7 @@ main:
   - title: "CV"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Blog"
-    url: /blog.md/
+    url: /blog/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
