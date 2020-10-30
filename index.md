@@ -3,21 +3,13 @@ layout: single
 author_profile: true
 ---
 
+## Hello, there!
+
 I have a background in **Economics**, however I spent significant time exploring
 Data Science, Machine Learning and now Deep Learning. I also spent a few years
 giving flight to my entrepreneurial ambitions at [Law School 101](https://www.lawschool101.in/) & [GrowthCat](https://www.growthcat.in/).
 
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
 
 > This is a blockquote following a header.
 >
