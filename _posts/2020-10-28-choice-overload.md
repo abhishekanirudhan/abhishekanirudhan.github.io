@@ -5,7 +5,9 @@ title: "Choice Overload: How Consumers Decide"
 category: "economics"
 ---
 
-It is a common belief that a consumer is better off when she has a variety of choices. The concept of choice and the ability to exercise it is central to the idea of autonomy in several societies. Not so long ago, most people lived predestined lives. Things are not the same. I think - at least partly - this memory of our recent past has led to the glorification of the notion of having options. According to Barry Schwartz, we have embraced this individualist ethos, and it has blinded us to the ill-effects of choice overload.<sup>1</sup>
+> It is a common belief that a consumer is better off when she has a variety of choices. 
+
+The concept of choice and the ability to exercise it is central to the idea of autonomy in several societies. Not so long ago, most people lived predestined lives. Things are not the same. I think - at least partly - this memory of our recent past has led to the glorification of the notion of having options. According to Barry Schwartz, we have embraced this individualist ethos, and it has blinded us to the ill-effects of choice overload.<sup>1</sup>
 
 According to Dilip Soman of the University of Toronto, the range of products available in an average North American supermarket has gone up by about 55% in the last ten years. In an informal survey of local drugstores, he found that the number of pain and fever medication ranged from 55 - 211 unique varieties.<sup>2</sup>
 
@@ -30,6 +32,6 @@ As a consumer-facing business, it is essential to evaluate the impact of every a
 
 References:
 
-Schwartz, Barry. _The Paradox of Choice: Why More Is Less_. Harper Collins, 2004.
-Soman, Dilip (2010), “Option Overload: Dealing with Choice Complexity,” Rotman Magazine, Fall 2010
-Ries, Al, and Laura Ries. _The 22 Immutable Laws of Branding: How to Build a Product or Service into a World-Class Brand_. HarperCollins e-Books, 2009.
+1. Schwartz, Barry. _The Paradox of Choice: Why More Is Less_. Harper Collins, 2004.
+2. Soman, Dilip (2010), “Option Overload: Dealing with Choice Complexity,” Rotman Magazine, Fall 2010
+3. Ries, Al, and Laura Ries. _The 22 Immutable Laws of Branding: How to Build a Product or Service into a World-Class Brand_. HarperCollins e-Books, 2009.
