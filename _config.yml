@@ -63,14 +63,14 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "tbWtZlkLwWO0vMMjGSsBCWs6rsIl5Ul6pjofSzeGP7E"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : abhi_a95
+  username               : "abhi_a95"
 facebook:
   username               :
   app_id                 :
