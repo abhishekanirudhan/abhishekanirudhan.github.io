@@ -20,7 +20,7 @@ author_profile: true
 
 ***GrowthCat LLP**, Hyderabad – (June 2018 - Present)*
 
-At GrowthCat we provide data-driven solutions to communication and branding problems. I manage finances, strategy and technology; and have dabbled in a fair bit of creative strategy and business development. You can check out our offering [here](./assets/growthcat_intro.pdf).
+At GrowthCat we provide data-driven solutions to communication and branding problems. I manage finances, strategy and technology; and have dabbled in a fair bit of creative strategy and business development.
 
 ---
 
