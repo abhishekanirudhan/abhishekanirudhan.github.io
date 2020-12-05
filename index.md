@@ -8,7 +8,7 @@ I have a background in **Economics**, however I spend a significant time explori
 
 I like playing the guitar.
 
-I also read a lot (and occasionally write)! You can find my thoughts, commentary and other takeaway from reading [here](https://www.notion.so/abhishekanirudhan/Books-a3197fdbf12b4cb499bf71a30cc620e0).
+I also read a lot (and occasionally write)! You can find my thoughts, commentary and other takeaway from reading [here](https://www.notion.so/abhishekanirudhan/Books-a3197fdbf12b4cb499bf71a30cc620e0){:target="_blank"}.
 {: .text-justify}
 
 > This is a blockquote following a header.

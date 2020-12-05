@@ -5,7 +5,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Reading"
-    url: "https://www.notion.so/Books-a3197fdbf12b4cb499bf71a30cc620e0"
+    url: "https://www.notion.so/Books-a3197fdbf12b4cb499bf71a30cc620e0"{:target="_blank"}
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
