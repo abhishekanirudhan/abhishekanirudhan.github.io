@@ -9,7 +9,7 @@ I like playing the guitar.
 
 {: .text-justify}
 
-[Link to another page](./another-page.html).
+I also read a lot! You can find my thoughts, commentary and other takeaway from reading [here.](https://www.notion.so/abhishekanirudhan/Books-a3197fdbf12b4cb499bf71a30cc620e0).
 
 > This is a blockquote following a header.
 >
