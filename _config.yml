@@ -99,7 +99,7 @@ author:
   location         : "Hyderabad, India"
   #email            : "abhishek.anirudhan@gmail.com"
   links:
-    - label: "Email"
+    #- label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:abhishek.anirudhan@gmail.com"
     - label: "LinkedIn"
