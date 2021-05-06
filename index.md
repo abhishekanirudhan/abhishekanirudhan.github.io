@@ -8,7 +8,7 @@ I have a background in **Economics** and **Data**. I am passionate about *educat
 
 I currently work at [On Deck](https://www.beondeck.com/), and I'm trying to do my bit to help India tackle the pandemic with [Hyderabad Covid Resources](https://hydcovidresources.com/).
 
-I also read a lot (and occasionally write)! You can find my thoughts, commentary and other takeaway from reading [here](https://www.notion.so/abhishekanirudhan/Books-a3197fdbf12b4cb499bf71a30cc620e0){:target="_blank"}.
+I also read a lot (and occasionally write)! You can find thoughts, commentary and other takeaway from my reading [here](https://www.notion.so/abhishekanirudhan/Books-a3197fdbf12b4cb499bf71a30cc620e0){:target="_blank"}.
 {: .text-justify}
 
 Besides my more "serious" pursuits, I love rock music and enjoy playing the guitar!
