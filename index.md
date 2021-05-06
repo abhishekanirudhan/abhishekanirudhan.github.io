@@ -11,7 +11,7 @@ I also read a lot (and occasionally write)! You can find my thoughts, commentary
 
 Besides my more "serious" pursuits, I love rock music and enjoy playing the guitar!
 
-> It's written in the starlight
+> It's written in the starlight <br>
 > And every line in your palm
 > We are fools to make war
 > On our brothers in arms
