@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 ### Welcome to my cozy corner on the internet!
------
+
 
 I have a background in **Economics** and **Data**. I am passionate about *education* as a cause, and have worked in the field as a consultant, teacher and entrepreneur.
 {: .text-justify}
