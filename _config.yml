@@ -20,7 +20,7 @@ title                    : "Abhishek Anirudhan"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "Abhishek Anirudhan"
-description              : #
+description              : "Welcome to my cozy corner on the internet!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
